@@ -16,7 +16,6 @@
 - <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48"/> CSS
 - <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48"/> JavaScript
 - <img src="https://img.icons8.com/officel/48/000000/php-logo.png" width="48" height="48"/> PHP
-- <img src="https://img.icons8.com/officel/48/000000/react.png" width="48" height="48"/> React.js
 - <img src="https://img.icons8.com/ios-filled/48/000000/mysql-logo.png" width="48" height="48"/> MySQL
 
 ---
