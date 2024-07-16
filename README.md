@@ -11,7 +11,7 @@
 ---
 ### Linguagens de Programação:
 - <img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48"/> Python
-- <img src="https://img.icons8.com/color/48/000000/java.png" width="48" height="48"/> Java
+- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48"/> Java
 - <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48"/> HTML5
 - <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48"/> CSS
 - <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48"/> JavaScript
